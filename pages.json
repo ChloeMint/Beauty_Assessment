@@ -1,0 +1,230 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+		    "path" : "pages/Login/Login",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "",
+		        "transparentTitle": "always"
+		    }
+		    
+		},		
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "",
+				"transparentTitle": "always"
+			}
+		}
+	    ,{
+            "path" : "pages/test/test",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "测评",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB",
+				"enablePullDownRefresh": true
+            }
+            
+        }
+        ,{
+            "path" : "pages/me/me",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "enablePullDownRefresh": false,
+				"transparentTitle": "always"
+            }
+            
+        }
+        ,{
+            "path" : "pages/search/search",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "测评搜索",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+        },
+		{
+		    "path" : "pages/ItemDetail/ItemDetail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "测评结果",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+				
+		    }
+		},
+		{
+		    "path" : "pages/notCompleteItemDetail/notCompleteItemDetail",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "测评详情",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+				
+		    }
+		},
+		{
+		    "path" : "pages/share/share",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "分享测评",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+				
+		    }
+		}
+        ,{
+            "path" : "pages/ScanResult/ScanResult",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "扫描结果",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+            
+        }
+        ,{
+            "path" : "pages/inputTest/inputTest",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "填写测评",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+            
+        },
+		{
+		    "path" : "pages/newTest/newTest",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "新建测评",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+		    }
+		    
+		},
+		{
+		    "path" : "pages/AuditList/AuditList",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "审核列表",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/AuditDetail/AuditDetail",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "测评审核详情",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+            
+        }
+        ,{
+            "path" : "pages/AlreadyAdudit/AlreadyAdudit",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "已审核",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+            
+        }
+        ,{
+            "path" : "pages/AduditResult/AduditResult",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "审核结果详情",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+            
+        },
+		{
+		    "path" : "pages/MyAuditList/MyAuditList",
+		    "style" :                                                                                    
+		    {
+		        "navigationBarTitleText": "我的测评审核结果",
+		        "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+		    }
+		    
+		}
+        ,{
+            "path" : "pages/setting/setting",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "设置",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+            
+        }
+        ,{
+            "path" : "pages/ChangeUsername/ChangeUsername",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "修改昵称",
+                "enablePullDownRefresh": false,
+				"navigationBarBackgroundColor": "#FFE9EB"
+            }
+            
+        }
+        ,{
+            "path" : "pages/register/register",
+            "style" :
+            {
+                "navigationBarTitleText": "",
+                "transparentTitle": "always"
+            }
+            
+        }
+        ,{
+            "path" : "pages/forgetPassword/forgetPassword",
+            "style" :                                                                                    
+            {
+                "navigationBarTitleText": "",
+                "transparentTitle": "always"
+            }
+            
+        }
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"uniIdRouter": {},
+	
+	"tabBar": {
+		"color": "#CDCDCD",
+		"selectedColor": "#0E68CD",
+		"list": [
+			{
+				"text": "首页",
+				"iconPath": "static/首页.png",
+				"selectedIconPath": "static/首页(蓝).png",
+				"pagePath": "pages/index/index"
+			},
+			{
+				"text": "测评",
+				"iconPath": "static/分类.png",
+				"selectedIconPath": "static/分类（蓝）.png",
+				"pagePath": "pages/test/test"
+			},
+			{
+				"text": "我的",
+				"iconPath": "static/个人中心.png",
+				"selectedIconPath": "static/个人中心（蓝）.png",
+				"pagePath": "pages/me/me"
+			}
+		]
+	}
+}
