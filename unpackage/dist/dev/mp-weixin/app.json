@@ -1,0 +1,55 @@
+{
+  "pages": [
+    "pages/Login/Login",
+    "pages/index/index",
+    "pages/test/test",
+    "pages/me/me",
+    "pages/search/search",
+    "pages/ItemDetail/ItemDetail",
+    "pages/notCompleteItemDetail/notCompleteItemDetail",
+    "pages/share/share",
+    "pages/ScanResult/ScanResult",
+    "pages/inputTest/inputTest",
+    "pages/newTest/newTest",
+    "pages/AuditList/AuditList",
+    "pages/AuditDetail/AuditDetail",
+    "pages/AlreadyAdudit/AlreadyAdudit",
+    "pages/AduditResult/AduditResult",
+    "pages/MyAuditList/MyAuditList",
+    "pages/setting/setting",
+    "pages/ChangeUsername/ChangeUsername",
+    "pages/register/register",
+    "pages/forgetPassword/forgetPassword"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#CDCDCD",
+    "selectedColor": "#0E68CD",
+    "list": [
+      {
+        "text": "首页",
+        "iconPath": "static/首页.png",
+        "selectedIconPath": "static/首页(蓝).png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "测评",
+        "iconPath": "static/分类.png",
+        "selectedIconPath": "static/分类（蓝）.png",
+        "pagePath": "pages/test/test"
+      },
+      {
+        "text": "我的",
+        "iconPath": "static/个人中心.png",
+        "selectedIconPath": "static/个人中心（蓝）.png",
+        "pagePath": "pages/me/me"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

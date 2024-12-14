@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "已审核",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#FFE9EB",
+  "usingComponents": {
+    "audit-product-card": "../../components/auditProductCard"
+  }
+}

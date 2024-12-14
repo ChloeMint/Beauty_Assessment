@@ -1,0 +1,1 @@
+<view class="content data-v-179bf8ea"><view wx:for="{{a}}" wx:for-item="item" wx:key="c" class="data-v-179bf8ea" bindtap="{{item.d}}"><test-product-card wx:if="{{item.b}}" class="data-v-179bf8ea" u-i="{{item.a}}" bind:__l="__l" u-p="{{item.b}}"></test-product-card></view></view>

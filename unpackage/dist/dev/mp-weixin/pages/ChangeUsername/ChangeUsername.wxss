@@ -1,0 +1,36 @@
+
+.content.data-v-e253ba41{
+		width: calc(100% - 80rpx);
+		padding: 40rpx;
+}
+.content #box.data-v-e253ba41{
+		width: 100%;
+		height: 66rpx;
+		display: flex;
+		flex-direction: row;
+}
+.content #box input.data-v-e253ba41{
+		width: calc(100% - 160rpx);
+		height: 100%;
+		border-radius: 10rpx;
+		display: block;
+		font-size: 30rpx;
+		padding: 0rpx 15rpx 0rpx 15rpx;
+		background-color: #EDEDED;
+}
+.content #box button.data-v-e253ba41{
+		margin-left: 20rpx;
+		width: 140rpx;
+		height: 100%;
+		font-size: 30rpx;
+		line-height: 66rpx;
+		color: white;
+		font-weight: bold;
+		background-color: #0E68CD;
+}
+.content>text.data-v-e253ba41{
+		font-size: 26rpx;
+		color: #bdbdbd;
+}
+	
+	

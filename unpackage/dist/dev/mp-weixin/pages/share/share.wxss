@@ -1,0 +1,21 @@
+
+.content.data-v-ceb22cc9{
+		width: 100%;
+		height: 100vh;
+}
+.content #codeImageBox.data-v-ceb22cc9{
+		width: 100%;
+		height: 60%;
+}
+.content #codeImageBox>image.data-v-ceb22cc9{
+		margin: calc(50% - 265rpx) calc(50% - 265rpx);
+		width: 530rpx;
+		height: 530rpx;
+}
+.content>text.data-v-ceb22cc9{
+		font-size: 30rpx;
+		color: #666666;
+		text-align: center;
+		display: block;
+		margin: 0rpx auto;
+}

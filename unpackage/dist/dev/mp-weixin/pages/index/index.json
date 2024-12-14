@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "",
+  "transparentTitle": "always",
+  "usingComponents": {
+    "product-card": "../../components/productCard"
+  }
+}

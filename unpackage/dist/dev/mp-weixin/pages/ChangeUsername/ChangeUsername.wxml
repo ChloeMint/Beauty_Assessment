@@ -1,0 +1,1 @@
+<view class="content data-v-e253ba41"><view class="data-v-e253ba41" id="box"><input class="data-v-e253ba41" type="text" placeholder="请输入您的新昵称" maxlength="5" placeholder-style="color:#908F8F;" value="{{a}}" bindinput="{{b}}"></input><button class="data-v-e253ba41" bindtap="{{c}}">完成</button></view><text class="data-v-e253ba41">小tips:昵称不得超过5个字符</text></view>

@@ -1,0 +1,47 @@
+
+.content #header[data-v-19c123a7]{
+	  width: 100%;
+	  height: 10.4375rem;
+	  position: relative;
+}
+.content #header #background[data-v-19c123a7]{
+	  width: 100%;
+	  height: 100%;
+	  border-radius: 0 0 0.625rem 0.625rem;
+	  position: absolute;
+	  left: 0;
+	  top: 0;
+}
+.content #header #avatar[data-v-19c123a7]{
+	  position: absolute;
+	  width: 4.125rem;
+	  height: 4.125rem;
+	  border-radius: 50%;
+	  top: calc(50% - 2.0625rem);
+	  left: 1.25rem;
+}
+.content #header #username[data-v-19c123a7]{
+	  position: absolute;
+	  top: calc(50% - 2.0625rem);
+	  left: 6.625rem;
+	  font-size: 1.25rem;
+}
+.content #header #who[data-v-19c123a7]{
+	  position: absolute;
+	  top: calc(50% + 0.4375rem);
+	  left: 6.625rem;
+}
+.content #content[data-v-19c123a7]{
+	  margin-top: 5rem;
+	  width: 100%;
+}
+.content #content .item[data-v-19c123a7]{
+	  padding: 1.25rem;
+	  width: calc(100% - 1.25rem);
+	  height: 1.8125rem;
+	  background-color: antiquewhite;
+}
+.item>uni-image[data-v-19c123a7]{
+	  width: 1.8125rem;
+	  height: 1.8125rem;
+}

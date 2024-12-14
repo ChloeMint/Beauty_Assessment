@@ -1,0 +1,1 @@
+<view class="content"><view class="item" bindtap="{{a}}"><text>修改头像</text><image class="rightButton" src="/static/右箭头.png" mode="aspectFill"></image></view><view class="item" bindtap="{{b}}"><text>修改昵称</text><image class="rightButton" src="/static/右箭头.png" mode="aspectFill"></image></view><image src="/static/退出登录.png" mode="aspectFill" id="logout" bindtap="{{c}}"></image></view>

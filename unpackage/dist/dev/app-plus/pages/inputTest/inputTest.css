@@ -1,0 +1,137 @@
+
+.content[data-v-9f30ca1b]{
+		padding: 1.25rem;
+		width: calc(100% - 2.5rem);
+}
+.content #name[data-v-9f30ca1b]{
+		width: 100%;
+		height: 1.5rem;
+}
+.title[data-v-9f30ca1b]{
+		color: #666666;
+		font-size: 1.125rem;
+		font-weight: bold;
+}
+.content #name>uni-text[data-v-9f30ca1b]:nth-child(2){
+		font-size: 0.9375rem;
+		margin-left: 1.25rem;
+		color: #666666;
+}
+.content #productImage[data-v-9f30ca1b]{
+		display: block;
+		margin-top: 1.25rem;
+		width: 6.25rem;
+		height: 6.25rem;
+		border-radius: 0.625rem;
+		margin-bottom: 1.25rem;
+}
+.content #radioBox[data-v-9f30ca1b]{
+		margin-bottom: 1.25rem;
+		margin-top: 1.25rem;
+		width: 100%;
+		height: 3.125rem;
+}
+.content #radioBox uni-radio-group uni-label[data-v-9f30ca1b]{
+		font-size: 0.9375rem;
+		display: inline-block;
+		margin-bottom: 0.625rem;
+		margin-right: 0.625rem;
+}
+#radioBox uni-label uni-radio[data-v-9f30ca1b]{
+		scale: 0.7;
+}
+#tagSelectBox[data-v-9f30ca1b]{
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		margin-top: 1.25rem;
+		width: 100%;
+		margin-bottom: 1.25rem;
+}
+.defaultStyle[data-v-9f30ca1b]{
+		margin-bottom: 1.25rem;
+		margin-right: 1.25rem;
+		border-radius: 0.3125rem;
+		font-size: 0.9375rem;
+		display: inline-block;
+		width: auto;
+		height: 0.6875rem;
+		padding: 0.625rem;
+		text-align: center;
+		line-height: 0.6875rem;
+		background-color: #EDEDED;
+		color: #666666;
+}
+#tagSelectBox uni-input[data-v-9f30ca1b]{
+		text-align: center;
+		border-radius: 0.3125rem;
+		width: 2.75rem;
+		font-size: 0.9375rem;
+		padding: 0.25rem;
+		background-color: #EDEDED;
+}
+.content #selectImages[data-v-9f30ca1b]{
+		margin-bottom: 1.25rem;
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		margin-top: 1.25rem;
+		width: 100%;
+}
+.content #selectImages #imageBox>uni-image[data-v-9f30ca1b]{
+		border-radius: 0.3125rem;
+}
+.content #selectImages uni-image[data-v-9f30ca1b]{
+		width: 5rem;
+		height: 5rem;
+}
+#imageBox[data-v-9f30ca1b]{
+		position: relative;
+}
+.content #selectImages .deleteButton[data-v-9f30ca1b]{
+		position: absolute;
+		top: 0.15625rem;
+		right: 0.15625rem;
+		width: 1.25rem;
+		height: 1.25rem;
+}
+#selectImages #imageBox[data-v-9f30ca1b]{
+		margin-right: 1.25rem;
+		margin-bottom: 1.25rem;
+}
+.content #selectImages uni-image[data-v-9f30ca1b]:last-child{
+		margin-right: 0;
+}
+.content #feeling[data-v-9f30ca1b]{
+		border-radius: 0.3125rem;
+		padding: 1.25rem;
+		margin-top: 1.25rem;
+		width: calc(100% - 2.5rem);
+		height: 8.125rem;
+		background-color: #EDEDED;
+}
+.content #feeling>uni-textarea[data-v-9f30ca1b]{
+		font-size: 0.9375rem;
+		width: 100%;
+}
+.content uni-button[data-v-9f30ca1b]{
+		margin-top: 1.25rem;
+		width: 100%;
+		height: 2.875rem;
+		color: white;
+		font-size: 1.125rem;
+		line-height: 2.875rem;
+		background-color: #0E68CD;
+}
+.selectTag[data-v-9f30ca1b]{
+		background-color: #E5EDFB;
+		color: #0E68CD;
+}
+.addImageButtonVisible[data-v-9f30ca1b]{
+		display: block;
+}
+.addImageButtonInvisible[data-v-9f30ca1b]{
+		display: none;
+}
+	
+	

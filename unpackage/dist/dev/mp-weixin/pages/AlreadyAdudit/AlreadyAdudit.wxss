@@ -1,0 +1,5 @@
+
+.content.data-v-32eddb9f{
+		width: calc(100% - 80rpx);
+		padding: 40rpx;
+}

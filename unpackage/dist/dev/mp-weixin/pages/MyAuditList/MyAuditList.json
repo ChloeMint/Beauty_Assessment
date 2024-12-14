@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的测评审核结果",
+  "enablePullDownRefresh": false,
+  "navigationBarBackgroundColor": "#FFE9EB",
+  "usingComponents": {
+    "audit-product-card": "../../components/auditProductCard"
+  }
+}
